@@ -1,6 +1,15 @@
 
 ## Requirements
 - PHP 8.1
+
+## Crie sua conta 
+
+https://openai.com/api/
+Depois criado, vá em seu perfil e gere um chave "Create new secret key".
+Logo adione no seu (env) essa chave
+> OPENAI_API_KEY="sk-sua-chave"
+
+
 ## Run
 > composer install 
 
